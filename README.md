@@ -1,6 +1,6 @@
 # AMLS2_CycleGAN
 
-This code is for the final project of ELEL0135_AMLS2. This project works for a style transform task using CycleGAN, aiming to transform a photo to a painting with style of Monet. 
+This code is for the final project of ELEL0135_AMLS2. This project works for a style transfer task using CycleGAN, aiming to transform a photo to a painting with style of Monet. 
 
 ## Set up
 
